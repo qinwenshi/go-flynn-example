@@ -1,6 +1,6 @@
 {
 	"ImportPath": "github.com/flynn-examples/go-flynn-example",
-	"GoVersion": "go1.9",
+	"GoVersion": "go1.9.2",
 	"GodepVersion": "v79",
 	"Deps": [
 		{
